@@ -1016,6 +1016,11 @@ section {
 .contact .info {
   width: 100%;
   background: #fff;
+  display: flex; /* Use flexbox to align items horizontally */
+  flex-direction: column; /* Stack child elements vertically */
+  align-items: center; /* Center child elements horizontally */
+  text-align: center; /* Center text within each column */
+  padding: 20px; /* Add padding for spacing */
 }
 
 .contact .info i {
