@@ -218,7 +218,7 @@
             <span class="skill" style="font-weight: bold;">OpenCV </span>
           </div>
           <div class="col-lg-2">
-            <span class="skill" style="font-weight: bold;">Pillow </span>
+            <span class="skill" style="font-weight: bold;">MLFlow </span>
           </div>
           <div class="col-lg-2">
             <span class="skill" style="font-weight: bold;">NumPy</span>
@@ -513,8 +513,17 @@
               <h4>Bachelor of Technology in Electronics and Communication Engineering </h4>
               <h6>GPA: 9.33/10.00 | Vellore,India | Jul 2018 - May 2022</h6>
               <p><em>Vellore Institute of Technology,Vellore</em></p>
+              <p><strong>Relevant Coursework:</strong> Neural Networks and Fuzzy Control, Robotics and Automation, Sensors and Instrumentation</p>
             </div>
             <h3 class="resume-title">Professional Experience</h3>
+            <div class="resume-item">
+              <h4>Computer Vision Scientist</h4>
+              <h5>July 2024 - Ongoing</h5>
+              <p><em>Wicket LLC</em></p>
+              <ul>
+                <li>Improving Wicket's proprietary spoof detector.</li>
+              </ul>
+            </div>
             <div class="resume-item">
               <h4>Computer Vision Intern</h4>
               <h5>Dec 2023 - Jan 2024</h5>
@@ -522,7 +531,7 @@
               <ul>
                 <li>Fine-tuned patch-based spoof detection algorithm to achieve 98.78% accuracy on six new spoof types.</li>
                 <li>Built a robust two stage spoof classifier with gaussian blur, random fog augmentated face crops.</li>
-                <li>Designed the semi-supervised stage with contrastive learning and knowledge distillation and trained the classifier head by freezing the rest with first stage shared weights delivering a very generalised detector.</li>
+                <li>Designed the semi-supervised spoof detector with contrastive learning and knowledge distillation and trained the classifier head by freezing the rest with first stage shared weights delivering a very generalised detector.</li>
               </ul>
             </div>
             <div class="resume-item">
@@ -555,12 +564,14 @@
             <h3 class="resume-title">Research Experience</h3>
             <div class="resume-item">
               
-              <h4>Graduate Research Assistant - Prof. Eshed Ohn Bar (Guide)</h4>
+              <h4>Research Assistant - Prof. Eshed Ohn Bar (Guide)</h4>
               <h5>Mar 2023 - Present</h5>
               <p><em>Human to Anything Lab (H2X Lab) - Boston University College of Engineering</em></p>
               <ul>
+                <li>Introduced novel text-motion data for blind individuals with high-level and low-level annotations by motion experts.</li>
+                <li>Benchmarked fine-tuned text-to-motion LLMs like MotionGPT against language context integrated motion prediction models with visually-impaired user study data and introduced novel joint-based loss to imitate the subtle actions.</li>
                 <li>Collaborated with RedHat research to develop a cloud-assisted agent for perception based navigation.</li>
-                <li>Achieved SOTA results on latency, power, accuracy, uncertainty trade-off using Residual PPO algorithm.</li>
+                <li>Achieved SOTA results on latency, power, accuracy, uncertainty trade-off using PPO algorithm.</li>
                 <li>Introduced a novel custom-designed CARLA Reinforcement Learning environment.</li>
               </ul>
               <h4>Teaching Assistant - EC-518 Robot Learning</h4>
@@ -571,12 +582,13 @@
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Graduate Research Assistant - Prof. Bang Bon Koo (Guide)</h4>
+              <h4>Research Assistant - Prof. Bang Bon Koo (Guide)</h4>
               <h5>Oct 2022 - Aug 2023</h5>
               <p><em>Bio-Imaging and Informatics Lab (BIL Lab) - Boston University School of Medicine</em></p>
               <ul>
-                <li>Developing lobe-wise segmented brain age prediction models using fusion features from FiAnet and Transfer Learning to find lobe affected most for Gulf-war patients.</li>
-                <li>Achieved better performance than conventional VGG, ResNet backbones by devising Inception based Global Local Transformer(GLT) for calculating the A-beta content from brain MRI scans.</li>
+                <li>Designed a dual-channel Global-Local Transformer (GLT) architecture to extract MRI intensity and ravens map features, enabling their fusion for accurate brain age prediction.</li>
+                <li>Compared the performance of the architecture for lobe-wise segmented brain and whole brain age prediction.</li>
+                <li>Implemented Transfer Learning for accurate brain age prediction of Gulf-war patients.</li>
               </ul>
             </div>
             <div class="resume-item">
@@ -584,8 +596,8 @@
               <h5>Sep 2021 - Nov 2021</h5>
               <p><em>University of Calcutta, Kolkata</em></p>
               <ul>
-                <li>Extracted features (Shannon Entropy, Log Energy Entropy), modelled Random Forest over Gaussian Naive Bayes and SVM Classifier for classifying noise content of raw ECG dataset with noises (Muscle Artifacts) to reduce false positives in diagnosis.</li>
-                <li>Increased prediction accuracy by 9.2% balancing feature space with ADASYN and PCA.</li>
+                <li>Segregated noisy ECG signals using a random forest classifier with features like Shannon- Entropy and Log Energy entropy. </li>
+                <li>Increased the 9.2\% performance by balancing data and choosing proper feature space with Adaptive Synthetic Sampling (ADASYN) and Principal Component Analysis (PCA).</li>
               </ul>
             </div>
             <div class="resume-item">
@@ -593,8 +605,7 @@
               <h5>Aug 2021 - Oct 2021</h5>
               <p><em>Indian Institute of Technology, Delhi</em></p>
               <ul>
-                <li>Modelled a Random Forest Regressor with 92.88% accuracy score for determination of Ultraviolet Protection Factor Jute to measure fabric suitability.</li>
-                <li>Designed a random forest classifier with 94.44% 3 fold cross-validation score for categorizing it that scaled fabric production rate and reduced time-consumption.</li>
+                <li>Modelled a Ultraviolet Protection Factor(UPF) predictor and classified woven fabrics based on safety-quotient using Random Forest algorithm.</li>
               </ul>
             </div>
           </div>
