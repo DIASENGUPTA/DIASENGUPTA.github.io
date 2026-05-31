@@ -44,31 +44,31 @@ Currently, My research aim is to explore compositional and spatial reasoning of 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/AIM-FAIR.png' alt="CVPR2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/TexttoBlind.png' alt="NeurIPS2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data](https://arxiv.org/abs/2503.05665)  
-**CVPR 2025 (Poster)**
+[Text to Blind Motion](https://arxiv.org/abs/2412.05277)  
+**NeurIPS 2024 (Poster)**
 
-Zengqun Zhao, Ziquan Liu, **Yu Cao**, Shaogang Gong, Ioannis Patras
+Hee Jae Kim, **Kathakoli Sengupta**, Masaki Kuribayashi, Hernisa Kacorri, Eshed Ohn-Bar
 
-[**Project**](https://zengqunzhao.github.io/AIMFair) **|** [**Code**](https://github.com/zengqunzhao/AIM-Fair)
+[**Project**](https://blindways.github.io/) **|** [**Code**](https://github.com/blindways/BlindWays_vizualisation)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/Exp-CLIP.png' alt="WACV2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/UniLCD.png' alt="ECCV2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing Zero-Shot Facial Expression Recognition by LLM Knowledge Transfer](https://arxiv.org/abs/2405.19100)  
-**WACV 2025 <span style="color:red">(Oral)</span>**
+[UniLCD: Unified Local-Cloud Decision-Making via Reinforcement Learning](https://arxiv.org/abs/2409.11403)  
+**ECCV 2024**
 
-Zengqun Zhao, **Yu Cao**, Shaogang Gong, Ioannis Patras
+**Kathakoli Sengupta**, Zhongkai Shangguan, Sandesh Bharadwaj, Sanjay Arora, Eshed Ohn-Bar, Renato Mancuso
 
-[**Code**](https://github.com/zengqunzhao/Exp-CLIP)
+[**Project**](https://unilcd.github.io/) **|** [**Code**](https://github.com/DIASENGUPTA/UniLCD)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/CRDI.png' alt="ECCV2024" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/CRDI.png' alt="ECCV2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Few-Shot Image Generation by Conditional Relaxing Diffusion Inversion](https://arxiv.org/abs/2407.07249)  
@@ -78,7 +78,7 @@ Zengqun Zhao, **Yu Cao**, Shaogang Gong, Ioannis Patras
 
 [**Project**](https://yucao16.github.io/CRDI/) **|** [**Code**](https://github.com/YuCao16/CRDI)
 </div>
-</div>
+</div> -->
 
 # 🎖 Honors and Awards
 - *2021.12* Computer Science **Dean's list**, University College London, UK.
