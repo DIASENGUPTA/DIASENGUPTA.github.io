@@ -60,7 +60,7 @@ Hee Jae Kim, **Kathakoli Sengupta**, Masaki Kuribayashi, Hernisa Kacorri, Eshed 
 <div class='paper-box-text' markdown="1">
 
 [UniLCD: Unified Local-Cloud Decision-Making via Reinforcement Learning](https://arxiv.org/abs/2409.11403)  
-**ECCV 2024**
+**ECCV 2024 (Poster)**
 
 **Kathakoli Sengupta**, Zhongkai Shangguan, Sandesh Bharadwaj, Sanjay Arora, Eshed Ohn-Bar, Renato Mancuso
 
