@@ -24,8 +24,11 @@ Currently, My research aim is to explore compositional and spatial reasoning of 
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 SceneCritic short version will be presented at the <a href="https://opensun3d.github.io/" target="_blank">Workshop on Open-World 3D Scene Understanding with Foundation Models</a>, the <a href="https://mars-eai.github.io/CVPR-SCI-MARS-Webpage/" target="_blank">1st Workshop on Multi-Agent Robotic Systems</a>, and the <a href="https://knowledgemr-workshop.github.io/" target="_blank">2nd Workshop on Knowledge-Intensive Multimodal Reasoning</a> @ **CVPR 2026**!!
-- *2024.10*: &nbsp;🎉🎉 One paper was accepted to **NeurIPS'24**!
-- *2024.07*: &nbsp;🎉🎉 One paper was accepted to **ECCV'24**!
+- *2025.08*: &nbsp;🎉🎉 Started PhD in Computer Science at  **Stony Brook University**!
+- *2024.07*: &nbsp;🎉🎉 Started working as a Computer Vision Scientist at **Wicket LLC**!
+- *2024.08*: &nbsp;🎉🎉 One paper was accepted to **NeurIPS'24**!
+- *2024.03*: &nbsp;🎉🎉 One paper was accepted to **ECCV'24**!
+- *2022.09*: &nbsp;🎉🎉 Started Masters in AI at **Boston University**!
 
 # 📝 Publications 
 
