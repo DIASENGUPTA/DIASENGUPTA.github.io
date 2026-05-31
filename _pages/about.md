@@ -19,12 +19,12 @@ redirect_from:
 
 I am a first-year PhD student in Synthetic Perception and Learning Lab (SPELLAB) under the Computer Vision Lab advised by [Prof. Paola Cascante-Bonilla]([https://ssgong.github.io/](https://paolacascante.com/)). Before starting my PhD, I worked as a Computer Vision Scientist at [Wicket LLC](https://www.wicketsoft.com/). During my masters, I had the priviledge of working with [Prof. Eshed Ohn Bar](https://eshed1.github.io/).
 
-Currently, My research aim is to explore compositional and spatial reasoning of VLMs in 3D spaces. I am also integrating embodied AI into 3D generated environments to exlore the reasoning abilities of such agents.
+Currently, My research aim is to explore compositional and spatial reasoning of VLMs in 3D spaces. I am also integrating embodied AI into 3D generated environments to explore the reasoning abilities of such agents.
 
 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 SceneCritic short version will be presented at the <a href="https://opensun3d.github.io/" target="_blank">Workshop on Open-World 3D Scene Understanding with Foundation Models</a>, the <a href="https://mars-eai.github.io/CVPR-SCI-MARS-Webpage/" target="_blank">1st Workshop on Multi-Agent Robotic Systems</a>, and the <a href="https://knowledgemr-workshop.github.io/" target="_blank">2nd Workshop on Knowledge-Intensive Multimodal Reasoning</a> @ **CVPR 2026**!!
-- *2024.10*: &nbsp;🎉🎉 One paper was accepted to **WACV'25 <span style="color:red">(Oral)</span>**!
+- *2024.10*: &nbsp;🎉🎉 One paper was accepted to **NeurIPS'24**!
 - *2024.07*: &nbsp;🎉🎉 One paper was accepted to **ECCV'24**!
 
 # 📝 Publications 
