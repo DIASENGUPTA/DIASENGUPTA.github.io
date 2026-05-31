@@ -32,7 +32,7 @@ Currently, My research aim is to explore compositional and spatial reasoning of 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/SceneCritic.png' alt="Preprint" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SceneCritic.png' alt="Preprint" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis](https://arxiv.org/abs/2604.13035)  
