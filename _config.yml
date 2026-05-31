@@ -25,14 +25,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Kathakoli Sengupta"
-  avatar           : "images/me.png"
+  avatar           : "images/Kathakoli_image.png"
   bio              : "Stony Brook University"
   location         : "Stony Brook, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=VLbRHNAAAAAJ"
   email            : "ksengupta@cs.stonybrook.edu"
-  researchgate     : ""
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -48,7 +48,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : ""
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
