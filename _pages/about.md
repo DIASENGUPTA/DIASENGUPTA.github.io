@@ -25,8 +25,8 @@ Currently, My research aim is to explore compositional and spatial reasoning of 
 # 🔥 News
 - *2026.05*: &nbsp;🎉🎉 SceneCritic short version will be presented at the <a href="https://opensun3d.github.io/" target="_blank">Workshop on Open-World 3D Scene Understanding with Foundation Models</a>, the <a href="https://mars-eai.github.io/CVPR-SCI-MARS-Webpage/" target="_blank">1st Workshop on Multi-Agent Robotic Systems</a>, and the <a href="https://knowledgemr-workshop.github.io/" target="_blank">2nd Workshop on Knowledge-Intensive Multimodal Reasoning</a> @ **CVPR 2026**!!
 - *2025.08*: &nbsp;🎉🎉 Started PhD in Computer Science at  **Stony Brook University**!
+- *2024.09*: &nbsp;🎉🎉 One paper was accepted to **NeurIPS'24**!
 - *2024.07*: &nbsp;🎉🎉 Started working as a Computer Vision Scientist at **Wicket LLC**!
-- *2024.08*: &nbsp;🎉🎉 One paper was accepted to **NeurIPS'24**!
 - *2024.03*: &nbsp;🎉🎉 One paper was accepted to **ECCV'24**!
 - *2022.09*: &nbsp;🎉🎉 Started Masters in AI at **Boston University**!
 
@@ -35,12 +35,12 @@ Currently, My research aim is to explore compositional and spatial reasoning of 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ASCED.png' alt="CVPR2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Temporal Score Analysis for Understanding and Correcting Diffusion Artifacts](https://arxiv.org/pdf/2503.16218)  
-**CVPR 2025 (Poster)**
+[SceneCritic: A Symbolic Evaluator for 3D Indoor Scene Synthesis](https://arxiv.org/abs/2604.13035)  
+**Preprint**
 
-**Yu Cao**, Zengqun Zhao, Ioannis Patras, Shaogang Gong
+**Kathakoli Sengupta**, Kai Ao, Paola Cascante-Bonilla
 
-[**Project**](https://yucao16.github.io/ASCED/) **|** [**Code**](https://github.com/YuCao16/ASCED)
+[**Project**](https://lab-spell.github.io/SceneCritic/) **|** [**Code**](https://github.com/DIASENGUPTA/SceneCritic)
 </div>
 </div>
 
