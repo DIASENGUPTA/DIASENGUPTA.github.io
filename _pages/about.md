@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I am a third-year PhD student in Computer Science at the Computer Vision Group in the School of Electronic Engineering and Computer Science at the Queen Mary University of London, under the supervision of [Prof. Shaogang Gong](https://ssgong.github.io/).
+I am a first-year PhD student in Synthetic Perception and Learning Lab (SPELLAB) under the Computer Vision Lab advised by [Prof. Paola Cascante-Bonilla]([https://ssgong.github.io/](https://paolacascante.com/)).
 
-My research aim is to answer the question: In what ways can large language models be optimally utilized to facilitate multimodal learning in fine-grained unsupervised domain adaptation and domain generalization? Consequently, I am deeply interested in generative models, multimodal, and domain generalization.
+Currently, My research aim is to explore compositional and spatial reasoning of VLMs in 3D spaces. I am also integrating embodied AI into 3D generated environments to exlore the reasoning abilities of such agents.
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 Two papers were accepted to **CVPR'25**!
+- *2026.05*: &nbsp;🎉🎉 SceneCritic short version will be presented at the <a href="https://opensun3d.github.io/" target="_blank">Workshop on Open-World 3D Scene Understanding with Foundation Models</a>, the <a href="https://mars-eai.github.io/CVPR-SCI-MARS-Webpage/" target="_blank">1st Workshop on Multi-Agent Robotic Systems</a>, and the <a href="https://knowledgemr-workshop.github.io/" target="_blank">2nd Workshop on Knowledge-Intensive Multimodal Reasoning</a> @ **CVPR 2026**!!
 - *2024.10*: &nbsp;🎉🎉 One paper was accepted to **WACV'25 <span style="color:red">(Oral)</span>**!
 - *2024.07*: &nbsp;🎉🎉 One paper was accepted to **ECCV'24**!
 
