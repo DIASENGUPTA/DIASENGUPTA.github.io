@@ -82,10 +82,10 @@ Hee Jae Kim, **Kathakoli Sengupta**, Masaki Kuribayashi, Hernisa Kacorri, Eshed 
 </div> -->
 # 💻 Experience
 - *2026.05 - Now*, Research Assistant, Stony Brook University (Advisor: Prof. Paola Cascante-Bonilla).
-- *2025.08 - 2026.05*, Teaching Assistant, Stony Brook University (CSE590, ISE369).
+- *2025.08 - 2026.05*, Teaching Assistant, Stony Brook University (CSE590 Vision and Language Models).
 - *2024.07 - 2025.05*, Computer Vision Scientist, Wicket LLC.
 - *2023.03 - 2024.05*, Research Assistant, Boston University College of Engineering, H2X Lab (Advisor: Prof. Eshed Ohn-Bar).
-- *2023.09 - 2023.12*, Teaching Assistant, Boston University (EC-518).
+- *2023.09 - 2023.12*, Teaching Assistant, Boston University (EC-518 Robot Learning).
 - *2022.10 - 2023.05*, Research Assistant, Boston University School of Medicine, Bio-Imaging & Informatics Lab (Advisor: Prof. Bang-Bon Koo).
 - *2021.09 - 2021.11*, Machine Learning Intern, University of Calcutta, Rajabazar Campus (Advisor: Prof. Rajarshi Gupta).
 - *2021.08 - 2021.10*, Data Science and Machine Learning Intern, Indian Institute of Technology, Delhi (Advisor: Prof. Abhijit Majumdar).
