@@ -28,6 +28,7 @@ Currently, My research aim is to explore compositional and spatial reasoning of 
 - *2025.08*: &nbsp;🎉🎉 Started PhD in Computer Science at  **Stony Brook University**!
 - *2024.09*: &nbsp;🎉🎉 One paper was accepted to **NeurIPS'24**!
 - *2024.07*: &nbsp;🎉🎉 Started working as a Computer Vision Scientist at **Wicket LLC**!
+- *2024.04*: &nbsp;🎉🎉 Defended masters thesis on **Learning Spatial Representation for Efficient Robot Navigation**!
 - *2024.03*: &nbsp;🎉🎉 One paper was accepted to **ECCV'24**!
 - *2022.09*: &nbsp;🎉🎉 Started Masters in AI at **Boston University**!
 
