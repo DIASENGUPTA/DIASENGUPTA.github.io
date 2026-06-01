@@ -87,7 +87,7 @@ Hee Jae Kim, **Kathakoli Sengupta**, Masaki Kuribayashi, Hernisa Kacorri, Eshed 
 - *2023.09 - 2023.12*, Teaching Assistant, Boston University (EC-518).
 - *2022.10 - 2023.05*, Research Assistant, Boston University School of Medicine, Bio-Imaging & Informatics Lab (Advisor: Prof. Bang-Bon Koo).
 - *2021.09 - 2021.11*, Machine Learning Intern, University of Calcutta, Rajabazar Campus (Advisor: Prof. Rajarshi Gupta).
-- *2021.08 - 2021.10*, Data Science and Machine Learning Intern, Indian Institute of Technology, Delhi (Advisor: Dr. Abhijit Majumdar).
+- *2021.08 - 2021.10*, Data Science and Machine Learning Intern, Indian Institute of Technology, Delhi (Advisor: Prof. Abhijit Majumdar).
 
 # 📖 Educations
 - *2025.08 - Now*, PhD in Computer Science (GPA 4.00), Stony Brook University, New York, USA.
@@ -97,6 +97,9 @@ Hee Jae Kim, **Kathakoli Sengupta**, Masaki Kuribayashi, Hernisa Kacorri, Eshed 
 # 🎖 Honors and Awards
 - *2025.08* Dept. of Computer Science **John Hennessey Scholarship**, Stony Brook University, New York, USA.
 - *2019.01* **Merit Scholarship**, School of Electronics Engineering, VIT, Vellore, India
+
+# Selected Projects
+- 
 
 # Co-Curricular
 - *2021.01 - 2021.12*, Chairperson, IEEE SPS VIT.
