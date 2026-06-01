@@ -81,12 +81,13 @@ Hee Jae Kim, **Kathakoli Sengupta**, Masaki Kuribayashi, Hernisa Kacorri, Eshed 
 </div> -->
 
 # 🎖 Honors and Awards
-- *2021.12* Computer Science **Dean's list**, University College London, UK.
+- *2025.08* Dept. of Computer Science **John Hennessey Scholarship**, Stony Brook University, New York, USA.
+- *2019.01* **Merit Scholarship**, School of Electronics Engineering, VIT, Vellore, India
 
 # 📖 Educations
-- *2023.09 - Now, PhD, Queen Mary University of London (QMUL), London, UK.
-- *2020.09 - 2021.09*, Master (Distinct GPA 4.0), University College London (UCL), London, UK.
-- *2016.09 - 2020.09*, Bachelor (First-Class Honours, GPA 4.0), University of Liverpool, Liverpool, UK.
+- *2025.08 - Now, PhD in Computer Science (GPA 4.00), Stony Brook University, New York, USA.
+- *2022.09 - 2024.05*, Masters in Artificial Intelligence (GPA 3.96), Boston University, Boston, USA.
+- *2018.07 - 2022.05*, BTech in Electronics and Communication Engineering (GPA 3.95), VIT, Vellore, India.
 
 # 💻 Internships
 - *2025.09 - Now*, Research Intern, Huawei Darwin Research Centre, UK.
