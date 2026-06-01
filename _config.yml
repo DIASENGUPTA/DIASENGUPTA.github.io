@@ -60,7 +60,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "CV_Kathakoli_MERL.pdf"
+  cv               : "docs/CV_Kathakoli_MERL.pdf"
 
 
 # Reading Files
@@ -69,8 +69,8 @@ include:
   - .htaccess
   - _pages
   - files
-exclude:
   - docs
+exclude:
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
