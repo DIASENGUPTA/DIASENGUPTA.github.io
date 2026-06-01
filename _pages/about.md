@@ -99,7 +99,11 @@ Hee Jae Kim, **Kathakoli Sengupta**, Masaki Kuribayashi, Hernisa Kacorri, Eshed 
 - *2019.01* **Merit Scholarship**, School of Electronics Engineering, VIT, Vellore, India
 
 # Selected Projects
-- 
+- Learning Spatial Representation for Efficient Robot Navigation(Masters Thesis)
+- Person Following LIMO Robot
+- NeRF Editing with Geometric Processing
+- Early‑Exit Inspired Dynamic Neural Network For OOD Satellite Imaging
+- Driver Accident Prevention System (Bachelors Thesis) 
 
 # Co-Curricular
 - *2021.01 - 2021.12*, Chairperson, IEEE SPS VIT.
