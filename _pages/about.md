@@ -79,17 +79,31 @@ Hee Jae Kim, **Kathakoli Sengupta**, Masaki Kuribayashi, Hernisa Kacorri, Eshed 
 [**Project**](https://yucao16.github.io/CRDI/) **|** [**Code**](https://github.com/YuCao16/CRDI)
 </div>
 </div> -->
-
-# 🎖 Honors and Awards
-- *2025.08* Dept. of Computer Science **John Hennessey Scholarship**, Stony Brook University, New York, USA.
-- *2019.01* **Merit Scholarship**, School of Electronics Engineering, VIT, Vellore, India
+# 💻 Experience
+- *2026.05 - Now*, Research Assistant, Stony Brook University (Advisor: Prof. Paola Cascante-Bonilla).
+- *2025.08 - 2026.05*, Teaching Assistant, Stony Brook University (CSE590, ISE369).
+- *2024.07 - 2025.05*, Computer Vision Scientist, Wicket LLC.
+- *2023.03 - 2024.05*, Research Assistant, Boston University College of Engineering, H2X Lab (Advisor: Prof. Eshed Ohn-Bar).
+- *2023.09 - 2023.12*, Teaching Assistant, Boston University (EC-518).
+- *2022.10 - 2023.05*, Research Assistant, Boston University School of Medicine, Bio-Imaging & Informatics Lab (Advisor: Prof. Bang-Bon Koo).
+- *2021.09 - 2021.11*, Machine Learning Intern, University of Calcutta, Rajabazar Campus (Advisor: Prof. Rajarshi Gupta).
+- *2021.08 - 2021.10*, Data Science and Machine Learning Intern, Indian Institute of Technology, Delhi (Advisor: Dr. Abhijit Majumdar).
 
 # 📖 Educations
 - *2025.08 - Now*, PhD in Computer Science (GPA 4.00), Stony Brook University, New York, USA.
 - *2022.09 - 2024.05*, Masters in Artificial Intelligence (GPA 3.96), Boston University, Boston, USA.
 - *2018.07 - 2022.05*, BTech in Electronics and Communication Engineering (GPA 3.95), VIT, Vellore, India.
 
-# 💻 Internships
-- *2025.09 - Now*, Research Intern, Huawei Darwin Research Centre, UK.
-- *2024.06 - 2024.12*, Research Assistant, Digital Environment Research Institute (QMUL), UK.
-- *2023.12 - 2024.05*, Research Asistant, Scalpel Limited, UK.
+# 🎖 Honors and Awards
+- *2025.08* Dept. of Computer Science **John Hennessey Scholarship**, Stony Brook University, New York, USA.
+- *2019.01* **Merit Scholarship**, School of Electronics Engineering, VIT, Vellore, India
+
+# Co-Curricular
+- *2021.01 - 2021.12*, Chairperson, IEEE SPS VIT.
+- *2021.06 - 2021.07*, Organiser, HackX: Unveil Your X-factor, IEEE SPS VIT.
+- *2020.09 - 2020.10*, Event Coordinator, Building Chatbot: Expertise from Scratch, graVITas VIT.
+- *2020.03*, Coordinator, Reboot, IEEE Robotics and Automation Society, VIT Vellore.
+- *2020.01 - 2020.12*, Technical Head, IEEE Robotics and Automation Society, VIT Vellore.
+- *2019.07 - 2020.07*, Program Representative, School of Electronics Engineering, Vellore Institute of Technology.
+- *2018.12 - 2020.12*, Core Committee Member, IEEE SPS VIT.
+- *2018.12 - 2019.12*, Core Committee Member, IEEE Robotics and Automation Society, VIT Vellore.
