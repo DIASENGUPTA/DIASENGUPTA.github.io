@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD student in Synthetic Perception and Learning Lab (SPELLAB) under the Computer Vision Lab advised by [Prof. Paola Cascante-Bonilla]([https://paolacascante.com/]) Before starting my PhD, I worked as a Computer Vision Scientist at [Wicket LLC](https://www.wicketsoft.com/). During my masters, I had the priviledge of working with [Prof. Eshed Ohn Bar](https://eshed1.github.io/).
+I am a first-year PhD student in Synthetic Perception and Learning Lab (SPELLAB) under the Computer Vision Lab advised by [Prof. Paola Cascante-Bonilla](https://paolacascante.com/). Before starting my PhD, I worked as a Computer Vision Scientist at [Wicket LLC](https://www.wicketsoft.com/). During my masters, I had the priviledge of working with [Prof. Eshed Ohn Bar](https://eshed1.github.io/).
 
 Currently, My research aim is to explore compositional and spatial reasoning of VLMs in 3D spaces. I am also integrating embodied AI into 3D generated environments to explore the reasoning abilities of such agents.
 
